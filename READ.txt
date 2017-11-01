@@ -1,0 +1,2 @@
+Do not use Shift for crouching for my TF2 Spy config
+I know i could have just bound everything but i was too lazy :P
